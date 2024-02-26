@@ -9,7 +9,7 @@ download the repostory
 cd sqlDB
 ```
 ```
-mysql -u mysql_user -p < sql_script_file
+mysql -u mysql_user -p < build.sql
 ```
 run a script
 
