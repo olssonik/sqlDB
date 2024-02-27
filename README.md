@@ -16,6 +16,7 @@ run a script
 you should now be able to run queries by using mysql
 that I wrote in SQL instead of a tool like Microsoft Access
 this is how it should look like after running showall.sql in the folder called query:
+* /query/showall.sql
 ```
 SELECT * FROM players;
 ```
