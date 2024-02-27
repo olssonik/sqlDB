@@ -8,10 +8,11 @@ CREATE TABLE
         Nationality TEXT, 
         Age         INT 
     ) ;
-
-INSERT INTO players (Name, Surname, Nationality, Age) VALUES (Zach, LaVine, American, 28);
-INSERT INTO players (Name, Surname, Nationality, Age) VALUES (DeMar, DeRozan, American, 34);
-INSERT INTO players (Name, Surname, Nationality, Age) VALUES (Alec, Jacoby, American, 24);
-INSERT INTO players (Name, Surname, Nationality, Age) VALUES (Lonzo, Ball, American, 26);
-INSERT INTO players (Name, Surname, Nationality, Age) VALUES (Nikola, Vucevic, Switzerland, 33);
-
+USE chicagobulls;
+INSERT INTO players (Name, Surname, Nationality, Age)
+VALUES 
+    ('Zach', 'LaVine', 'American', 28),
+    ('DeMar', 'DeRozan', 'American', 34),
+    ('Alec', 'Jacoby', 'American', 24),
+    ('Lonzo', 'Ball', 'American', 26),
+    ('NiKola', 'Vucevic', 'Switzerland', 33);
