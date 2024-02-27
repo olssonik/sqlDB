@@ -25,3 +25,7 @@ result of running a Query alphabeticalordernames.sql
 
 ![image](https://github.com/olssonik/sqlDB/assets/78812304/270f4075-3c06-46a8-8d9e-a53a33c6bf11)
  after running notfromamerica.sql
+
+
+![image](https://github.com/olssonik/sqlDB/assets/78812304/0d0dc10c-f382-45af-8aac-e69595ae3bce)
+result of above30yr.sql
