@@ -8,7 +8,6 @@ CREATE TABLE
         Nationality TEXT, 
         Age         INT 
     ) 
-    ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
 
 INSERT INTO players (Name, Surname, Nationality, Age) VALUES (Zach, LaVine, American, 28);
 INSERT INTO players (Name, Surname, Nationality, Age) VALUES (DeMar, DeRozan, American, 34);
