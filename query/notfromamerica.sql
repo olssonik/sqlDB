@@ -1,2 +1,2 @@
 SELECT * FROM Players
-WHERE NOT Nationality = 'America';
+WHERE NOT Nationality = 'American';
