@@ -23,3 +23,5 @@ this is how it should look like after running showall.sql in the folder called q
 ![image](https://github.com/olssonik/sqlDB/assets/78812304/5aa2333e-a0b4-4bf2-ab63-1c0bcffe5e70)
 result of running a Query alphabeticalordernames.sql
 
+![image](https://github.com/olssonik/sqlDB/assets/78812304/270f4075-3c06-46a8-8d9e-a53a33c6bf11)
+ after running notfromamerica.sql
