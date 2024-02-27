@@ -1,1 +1,2 @@
-
+SELECT * FROM Players
+ORDER BY Name;
